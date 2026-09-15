@@ -1,150 +1,171 @@
+[English](README.md) | [中文](README.zh.md)
+
+---
+
+**`README.md`（英文版框架）**
+
+```markdown
 # Qiao Ou (That Man)
 
-**独立研究者 | 锚定框架开发者**
+**Independent Researcher | Developer of the Anchoring Framework**
 
-> 用同一套框架，从星系旋转曲线到山区流域水文，识别系统对扰动的响应模式。
+> Using one unified framework to identify system response patterns to perturbations — from galaxy rotation curves to mountain watershed hydrology.
 
-📫 **联系方式**：505808957@qq.com
-🆔 **ORCID**：[0009-0008-4540-1381](https://orcid.org/0009-0008-4540-1381)
+📫 **Contact**: 505808957@qq.com
+🆔 **ORCID**: [0009-0008-4540-1381](https://orcid.org/0009-0008-4540-1381)
+💻 **GitHub**: https://github.com/Zsyqdnr
 
 ---
 
-## 两个预印本
+## Three Preprints
 
-| 论文 | 领域 | DOI |
+| Paper | Field | DOI |
 |---|---|---|
-| **Anchoring Framework: A Zero-Dark-Matter Explanation for Galaxy Rotation Curves** | 星系物理 | [10.5281/zenodo.22714393](https://doi.org/10.5281/zenodo.22714393) |
-| **Snow-Dependence Modulates Warming-Induced Seasonal Extremization in Mountain Watersheds** | 水文气候 | [10.5281/zenodo.22736287](https://doi.org/10.5281/zenodo.22736287) |
+| **Anchoring Framework: A Zero-Dark-Matter Explanation for Galaxy Rotation Curves** | Galactic Physics | [10.5281/zenodo.22714393](https://doi.org/10.5281/zenodo.22714393) |
+| **Two-Layer Anchoring: Stellar Disks Obey Newton, Gas Disks Deviate** | Galactic Physics | [10.5281/zenodo.22771462](https://doi.org/10.5281/zenodo.22771462) |
+| **Snow-Dependence Modulates Warming-Induced Seasonal Extremization in Mountain Watersheds** | Hydrological Climate | [10.5281/zenodo.22736287](https://doi.org/10.5281/zenodo.22736287) |
 
-两篇论文使用**同一套锚定框架**，只是应用在不同的尺度上。
+All three papers use the **same Anchoring Framework**, applied at different scales.
 
 ---
 
-## 框架简介
+## Framework Overview
 
-锚定框架的核心思想：任何波团（从星系到流域，从宇宙到微观），都在与它所处的环境进行共振。环境结构决定波团的相干性——它能否抵抗扰动、维持自身结构。
+The core idea of the Anchoring Framework: any wave packet — from galaxies to watersheds, from the cosmos to the microscopic — resonates with its environment. The environmental structure determines the coherence of the wave packet: whether it can resist perturbations and maintain its own structure.
 
-三个核心量：
+Three core quantities:
 
-| 符号 | 含义 | 应用 |
+| Symbol | Meaning | Application |
 |---|---|---|
-| **S**（幸存因子） | 相干时间 ÷ 扰动周期 | 波团抵抗扰动的能力 |
-| **G锚**（锚定刚度） | 背景频率 ÷ 波态密度 × S | 环境对波团的约束强度 |
-| **R**（共振重叠度） | 环境谱与局部谱的重叠面积 | 波团与环境是否匹配 |
+| **S** (Survival Factor) | Coherence time ÷ Perturbation period | The wave packet's ability to resist perturbation |
+| **G_anchor** (Anchoring Stiffness) | Background frequency ÷ Wave density × S | The constraint strength of the environment |
+| **R** (Resonance Overlap) | Overlap area of environmental and local spectra | Whether the wave packet matches its environment |
 
-这套框架在不同尺度上的表达：
+The framework expresses itself at different scales:
 
-- **宇宙尺度**：星系的旋转曲线由锚定刚度决定，不需要暗物质
-- **水文尺度**：流域的季节径流结构由积雪锚的稳定性决定
-- **微观尺度**：任何时间序列的相干性和跃迁行为，都可以用 S 和 G锚 刻画
-
----
-
-## 核心案例
-
-### 案例一：星系旋转曲线（宇宙尺度）
-
-用锚定框架拟合 98 个 SPARC 星系，中位残差 9.14 km/s，**不依赖暗物质**。α 参数（幸存因子对密度的敏感度）与星系的气体占比显著相关（r² = 0.439）。
-
-### 案例二：阿尔泰山西段子流域（水文尺度，高敏感）
-
-- 位置：86.0–87.5°E, 47.0–48.2°N
-- SRF（春季径流占比）：0.384
-- SEI 趋势：-0.0092/年（58年累计 -37.6%）
-- 雪深趋势：-0.058 厘米/年
-- 结论：三重信号一致，正在快速滑向雨锚
-
-### 案例三：呼图壁河（水文尺度，低敏感）
-
-- 位置：86.05–87.08°E, 43.07–45.20°N
-- SRF：0.377
-- SEI 趋势：-0.0019/年（58年累计 -6.5%）
-- 雪深趋势：+0.009 厘米/年（基本稳定）
-- 结论：信号弱，冰川缓冲可能发挥作用
-
-> **关键对比**：两个流域 SRF 几乎相同（0.384 vs 0.377），但系统敏感性截然不同。传统水源解析方法无法区分，本框架可以。
+- **Cosmic scale**: Galaxy rotation curves are determined by anchoring stiffness, without dark matter
+- **Hydrological scale**: Seasonal runoff structure in watersheds is determined by the stability of the snow anchor
+- **Microscopic scale**: Coherence and transition behavior in any time series can be characterized by S and G_anchor
 
 ---
 
-## 服务产品
+## Key Cases
 
-### 产品 A：水文诊断报告
+### Case 1: Galaxy Rotation Curves — Single-Layer Anchoring (Cosmic Scale)
 
-**适合**：水利规划院、咨询公司、地州水利部门（内部预研、前期摸底）
+Fitting 98 SPARC galaxies with the Anchoring Framework yields a median residual of 9.14 km/s, **without dark matter**. The α parameter (density sensitivity of the survival factor) correlates significantly with the galaxy's gas fraction (r² = 0.439).
 
-**交付内容**：
-- 流域锚定类型诊断
-- 过去 30–60 年 SEI 变化趋势
-- 过去 30–40 年冬季雪深变化趋势
-- 融雪峰日期变化趋势
-- 通俗结论 + 可操作建议
+### Case 2: Galaxy Rotation Curves — Two-Layer Anchoring and Mass-Scale Coupling (Cosmic Scale)
 
-**价格**：500–2000 元 / 流域
-**交付周期**：3–5 个工作日
+Analysis of 159 SPARC galaxies reveals:
 
-### 产品 B：干旱风险预测报告
+- **Stellar disks obey pure Newtonian gravity** (k_star = 0.005 ± 0.005 /kpc, consistent with zero)
+- **Gas disks deviate from Newtonian gravity** (k_gas = 0.244 ± 0.022 /kpc, characteristic length 4.1 kpc)
+- **Gas-layer anchoring is driven by two independent quantities**: gas mass fraction w_gas and HI disk radius R_HI
+- **Double-variable model**: k = 0.127·w_gas + 0.530/R_HI, 5-fold CV R² = 0.62
+- **Independent validation with THINGS survey**: 14 overlapping galaxies, massive galaxies show consistent k (difference < 0.03)
 
-**适合**：保险公司、绿色金融机构、ESG 评估、科研课题
+This provides a dark-matter-free explanation of flat rotation curves, distinguishable from MOND because MOND does not differentiate between mass types or distribution scales.
 
-**交付内容**：产品 A 全部内容，加上：
-- 未来 5–10 年 SEI 趋势预测
-- 多排放情景对比（RCP4.5 / RCP8.5）
-- 置信区间与 RMSE 预测误差
-- 标准化风险评级
-- 完整方法学附录与参考文献
+### Case 3: Altai West Sub-basin (Hydrological Scale, High Sensitivity)
 
-**价格**：2000–20000 元 / 项目
-**交付周期**：7–20 个工作日
+- Location: 86.0–87.5°E, 47.0–48.2°N
+- SRF (Spring Runoff Fraction): 0.384
+- SEI trend: -0.0092/yr (58-year cumulative: -37.6%)
+- Snow depth trend: -0.058 cm/yr
+- Conclusion: Triple consistent signal, rapidly shifting toward a rain anchor
 
-### 批量筛查服务
+### Case 4: Hutubi River (Hydrological Scale, Low Sensitivity)
 
-**适合**：需要快速评估几十条流域优先级排序的咨询公司、规划院
+- Location: 86.05–87.08°E, 43.07–45.20°N
+- SRF: 0.377
+- SEI trend: -0.0019/yr (58-year cumulative: -6.5%)
+- Snow depth trend: +0.009 cm/yr (essentially stable)
+- Conclusion: Weak signal, glacier buffering may be at play
 
-**交付内容**：批量筛查表（流域名称、锚定类型、SRF、SEI 趋势、敏感度等级）+ 重点流域诊断报告
-
-**价格**：按流域数量协商
-
-### 跨尺度分析服务
-
-**适合**：任何需要相干性分析、趋势检测、状态跃迁识别的时间序列数据
-
-- 星系旋转曲线拟合
-- 通用时间序列趋势分析
-- 状态跃迁预警
-- 科研数据可视化
-
-**价格**：按项目复杂度协商
+> **Key comparison**: Two watersheds have nearly identical SRF (0.384 vs 0.377), yet exhibit drastically different system sensitivities. Traditional water source analysis cannot distinguish them. This framework can.
 
 ---
 
-## 技术栈
+## Service Products
 
-- **数据源**：SPARC 星系数据库、CNRD v1.0、中国雪深长时间序列数据集、NASA POWER、USGS NWIS
-- **计算环境**：Python (h5py, numpy, matplotlib, scipy)
-- **分析框架**：锚定框架（S, G锚, R）
+### Product A: Hydrological Diagnostic Report
+
+**Suitable for**: Water resource planning institutes, consulting firms, prefecture-level water departments (internal pre-research, preliminary assessment)
+
+**Deliverables**:
+- Watershed anchor type diagnosis
+- SEI trend over the past 30–60 years
+- Winter snow depth trend over the past 30–40 years
+- Snowmelt peak date trend
+- Plain-language conclusions + actionable recommendations
+
+**Price**: 500–2000 CNY / watershed
+**Delivery**: 3–5 business days
+
+### Product B: Drought Risk Prediction Report
+
+**Suitable for**: Insurance companies, green finance institutions, ESG assessment, research projects
+
+**Deliverables**: Everything in Product A, plus:
+- 5–10 year SEI trend projection
+- Multi-emission scenario comparison (RCP4.5 / RCP8.5)
+- Confidence intervals and RMSE prediction errors
+- Standardized risk rating
+- Full methodology appendix and references
+
+**Price**: 2000–20000 CNY / project
+**Delivery**: 7–20 business days
+
+### Batch Screening Service
+
+**Suitable for**: Consulting firms and planning institutes needing rapid priority ranking of dozens of watersheds
+
+**Deliverables**: Batch screening table (watershed name, anchor type, SRF, SEI trend, sensitivity level) + diagnostic reports for key watersheds
+
+**Price**: Negotiable based on watershed count
+
+### Cross-Scale Analysis Service
+
+**Suitable for**: Any time series data requiring coherence analysis, trend detection, or state transition identification
+
+- Galaxy rotation curve fitting
+- General time series trend analysis
+- State transition early warning
+- Scientific data visualization
+
+**Price**: Negotiable based on project complexity
 
 ---
 
-## 合作方式
+## Tech Stack
 
-我提供**数据分析和报告撰写服务**，不提供法定水文水资源调查评价成果。
-
-**适合的场景**：
-- 咨询公司分包：批量流域敏感性初筛
-- 规划院预研：区域水安全前期摸底
-- 科研合作：跨尺度响应模式分析
-- 数据科学：通用时间序列分析
-
-**不适合的场景**：
-- 工程立项审批
-- 水资源论证
-- 保险精算最终定价
-
-所有交付物自带完整免责声明，明确使用边界。
+- **Data Sources**: SPARC galaxy database, THINGS survey, CNRD v1.0, China Long-Term Snow Depth Dataset, NASA POWER, USGS NWIS
+- **Computing Environment**: Python (h5py, numpy, matplotlib, scipy, sklearn)
+- **Analysis Framework**: Anchoring Framework (S, G_anchor, R)
 
 ---
 
-## 引用
+## Collaboration
+
+I provide **data analysis and report writing services**. I do not provide legally valid hydrological survey and water resource assessment results.
+
+**Suitable scenarios**:
+- Consulting firm subcontracting: batch watershed sensitivity screening
+- Planning institute pre-research: preliminary regional water security assessment
+- Research collaboration: cross-scale response pattern analysis
+- Data science: general time series analysis
+
+**Not suitable for**:
+- Engineering project approval
+- Water resource argumentation
+- Final actuarial pricing for insurance
+
+All deliverables include a full disclaimer clarifying usage boundaries.
+
+---
+
+## Citation
 
 ```bibtex
 @article{ou2024anchoring,
@@ -155,6 +176,14 @@
   doi={10.5281/zenodo.22714393}
 }
 
+@article{ou2026twolayer,
+  title={Two-Layer Anchoring: Stellar Disks Obey Newton, Gas Disks Deviate},
+  author={Ou, Qiao},
+  journal={Zenodo},
+  year={2026},
+  doi={10.5281/zenodo.22771462}
+}
+
 @article{ou2024snow,
   title={Snow-Dependence Modulates Warming-Induced Seasonal Extremization in Mountain Watersheds},
   author={Ou, Qiao},
@@ -162,8 +191,3 @@
   year={2024},
   doi={10.5281/zenodo.22736287}
 }
-```
-
----
-
-*本主页内容仅代表个人研究观点，不构成任何投资或工程建议。*
