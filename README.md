@@ -2,7 +2,7 @@
 
 **Independent Researcher | Originator of the Anchoring Framework**
 
-> Using one unified framework to identify system response patterns to perturbations — from galaxy rotation curves to mountain watershed hydrology.
+> Using one unified framework to identify system response patterns to perturbations — from galaxy rotation curves to mountain watershed hydrology, and neural EEG limit-cycle crystallization.
 
 📫 **Contact**: 505808957@qq.com
 🆔 **ORCID**: [0009-0008-4540-1381](https://orcid.org/0009-0008-4540-1381)
@@ -38,7 +38,12 @@ Three core state variables:
 The framework manifests cross-scale:
 - **Cosmic scale**: Galaxy rotation curves arise from anchoring stiffness, no dark matter required
 - **Hydrological scale**: Seasonal runoff architecture in watersheds is governed by snow anchor stability
-- **Microscopic / time-series scale**: Coherence and regime transitions can be quantified by S and Gₐₙcₕₒᵣ
+- **Microscopic neural scale**: EEG limit-cycle crystallization (Taixu-Engine). Neural coherence and state transitions are quantified by S and Gₐₙcₕₒᵣ.
+
+### Microscopic Neural Realization: Taixu-Engine (EEG Limit-Cycle Crystallization)
+Beyond astrophysics and hydrology, the Anchoring Framework is applied to electroencephalography.
+Taixu-Engine computes SLC-C, Sync and Coverage metrics for EEG time series, to study meditation, altered states and neural coherence.
+👉 Repository: [Taixu-Engine EEG Service](https://github.com/Zsyqdnr/taixu-engine)
 
 ---
 
@@ -70,6 +75,11 @@ This provides a dark-matter-free interpretation of flat rotation curves, and is 
 - SEI trend: -0.0019/yr (58-year cumulative: -6.5%)
 - Snow depth trend: +0.009 cm/yr (stable)
 - Conclusion: Weak directional signal; glacier buffering likely suppresses seasonal extremization.
+
+### Case 5: Neural Limit-Cycle Crystallization (Microscopic Scale)
+EEG coherence and state transitions under meditation are quantified via S, Gₐₙcₕₒᵣ and R.
+The SLC-C metric captures the crystallization degree of neural limit cycles.
+This branch is maintained in the separate Taixu-Engine repository.
 
 > **Key comparison**: Two watersheds share nearly identical SRF (0.384 vs 0.377), yet diverge sharply in system sensitivity. Traditional source apportionment cannot capture this contrast; the Anchoring Framework does.
 
@@ -112,6 +122,7 @@ This provides a dark-matter-free interpretation of flat rotation curves, and is 
 - General time-series coherence analysis
 - State-transition early warning
 - Scientific visualization
+- EEG limit-cycle crystallization analysis (Taixu-Engine)
 
 **Price**: Negotiable by project complexity
 
@@ -134,6 +145,7 @@ I deliver custom data analysis and scientific report writing. I **do not provide
 - Pre-research for planning institutes
 - Cross-scale research collaboration
 - General time-series analytics
+- EEG neural coherence research collaboration
 
 ❌ Not suitable:
 - Engineering approval documentation
