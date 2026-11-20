@@ -3,7 +3,7 @@ Independent Researcher | Originator of the Anchoring Framework
 
 > Using a unified framework to identify system response patterns under perturbation — from galactic rotation curves to mountain watershed hydrology, and neural EEG limit-cycle crystallization.
 
-📫 **Contact**: [505808957@qq.com](mailto:505808957@qq.com)
+📫 **Contact**: [505808957@qq.com](mailto:qiao.ou@outlook.com)
 
 🆔 **ORCID**: [0009-0008-4540-1381](https://orcid.org/0009-0008-4540-1381)
 
@@ -19,6 +19,7 @@ Independent Researcher | Originator of the Anchoring Framework
 | Anchoring Framework: Zero-Dark-Matter Explanation for Galaxy Rotation Curves | Galactic Physics | 10.5281/zenodo.22714393 |
 | Double-Layer Anchoring: Stellar Disk Obeys Newton, Gas Disk Deviates | Galactic Physics | 10.5281/zenodo.22771462 |
 | Snow Dependence Modulates Seasonal Extremes Driven by Climate Warming in Mountain Watersheds | Hydrological Climate | 10.5281/zenodo.22736287 |
+| The Taixu Framework: Cross-Scale Phenomenological Validations from Galactic Dynamics to Neural Limit-Cycle Crystallization | Cross-Scale / Neural Dynamics | 10.5281/zenodo.23984773 |
 
 ---
 
@@ -61,7 +62,17 @@ This is the implementation basis of **Taixu-Engine**.
 ---
 
 ## Citation
+If you cite the cross-scale unified validation work (including EEG):
 ```bibtex
+@article{ou2026taixu,
+  title={The Taixu Framework: Cross-Scale Phenomenological Validations from Galactic Dynamics to Neural Limit-Cycle Crystallization},
+  author={Ou, Qiao},
+  journal={Zenodo},
+  year={2026},
+  doi={10.5281/zenodo.23984773}
+}
+
+If you cite the original galaxy rotation formulation:
 @article{ou2024anchoring,
   title={Anchoring Framework: A Zero-Dark-Matter Explanation for Galaxy Rotation Curves},
   author={Ou, Qiao},
