@@ -3,7 +3,7 @@ Independent Researcher | Originator of the Anchoring Framework
 
 > Using a unified framework to identify system response patterns under perturbation — from galactic rotation curves to mountain watershed hydrology, and neural EEG limit-cycle crystallization.
 
-📫 **Contact**: [505808957@qq.com](mailto:qiao.ou@outlook.com)
+📫 **Contact**: [qiao.ou@outlook.com](mailto:qiao.ou@outlook.com)
 
 🆔 **ORCID**: [0009-0008-4540-1381](https://orcid.org/0009-0008-4540-1381)
 
